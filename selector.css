@@ -1,0 +1,19 @@
+body{
+    margin: auto;
+}
+
+section{
+    background-color: grey;
+}
+
+p:hover {
+    background-color: #E5E7EB !important;
+}
+
+#siswa-1{
+    background-color: #60A5FA;
+}
+
+#siswa-4 {
+background-color: #F87171;
+}
